@@ -1,6 +1,6 @@
 # How to use AWS CLI with multiple accounts
 
-As explained in the [official documentation](https://docs.aws.amazon.com/cli/latest/userguide/cli-multiple-profiles.html), the credential file at `~/.aws/credentials` can contain more than one credentials.
+As explained in the [official documentation](https://docs.aws.amazon.com/cli/latest/userguide/cli-multiple-profiles.html), the credential file at `~/.aws/credentials` can contain more than one profile.
 
 ```console
 ~/Desktop/AWS
